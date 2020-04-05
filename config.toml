@@ -1,0 +1,7 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Shankar Kumar"
+publishdir = "expectopatronm.github.io"
+
+['params']
+description = "Applied Machine Learning Enthusiast. Interested in Data Science, Autonomous Systems, Computer Vision and Embedded Intelligence"      
