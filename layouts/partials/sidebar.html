@@ -1,0 +1,32 @@
+<aside class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+      <p class="lead">
+      {{ with .Site.Params.description }} {{.}} {{ else }}{{end}}
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      </ul>
+    </nav>
+
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      {{ with .Site.Params.github }}<a href="{{ . }}"><i class="fa fa-github-square fa-3x"></i></a>{{ end }}
+      {{ with .Site.Params.stackOverflow }}<a href="{{ . }}"><i class="fa fa-stack-overflow fa-3x"></i></a>{{ end }}
+      {{ with .Site.Params.linkedin }}<a href="{{ . }}"><i class="fa fa-linkedin-square fa-3x"></i></a>{{ end }}
+      {{ with .Site.Params.youtube }}<a href="{{ . }}"><i class="fa fa-youtube-square fa-3x"></i></a>{{ end }}
+      </li>
+    </ul>
+
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
+  </div>
+</aside>
+
