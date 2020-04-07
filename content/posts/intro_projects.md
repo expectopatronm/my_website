@@ -5,7 +5,6 @@ draft: false
 menu: "main"
 weight: 3
 ---
-
 ### Deep Learning Projects
 * [Pose Estiamation with High Resolution Neural Networks](/posts/projects/deep_learning_projects/pose_estimation)
 * [Platooning Demonstrator with Deep Learning and Computer Vision](/posts/projects/deep_learning_projects/platooning)
