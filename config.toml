@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Shankar Kumar"
+publishdir = "expectopatronm.github.io"
+
+MetaDataFormat = "toml"
+
+theme = "hyde-x"
+
+[author]
+    name = "Shankar Kumar"
+
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+
+    tagline = "Applied Machine Learning Enthusiast. Interested in Data Science, Autonomous Systems, Computer Vision and Embedded Intelligence"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Blog".
+    home = "Home"
+
+    # Sidebar social links, these must be full URLs.
+    github = "https://github.com/expectopatronm"
+    linkedin = "https://www.linkedin.com/in/shankar-kumar-40503477/" 

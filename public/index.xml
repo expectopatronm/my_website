@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ホーム on 親方の部屋</title>
+    <link>https://oyakata-life.net/</link>
+    <description>Recent content in ホーム on 親方の部屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://oyakata-life.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ライセンス</title>
+      <link>https://oyakata-life.net/license/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://oyakata-life.net/license/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>作業</title>
+      <link>https://oyakata-life.net/works/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://oyakata-life.net/works/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>自己紹介</title>
+      <link>https://oyakata-life.net/about/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://oyakata-life.net/about/</guid>
+      <description>名前 親方 / oyakata
+資格    取得年月 名称     H12.8 普通自動車第一種運転免許   H20.6? 普通自動二輪車免許   H20.7 大型自動二輪車免許    </description>
+    </item>
+    
+  </channel>
+</rss>
