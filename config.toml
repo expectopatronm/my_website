@@ -7,7 +7,6 @@ title = "Shankar Kumar"
 publishdir = "expectopatronm.github.io"
 
 MetaDataFormat = "toml"
-
 theme = "hyde-x"
 
 [author]
