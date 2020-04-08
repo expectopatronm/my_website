@@ -8,6 +8,7 @@ weight: 3
 
 ## Master of Science, Computer Engineering
 ### University of Paderborn
+
 Focus areas: Pattern Recognition, Machine Learning, Embedded Systems
 
 Master’s Thesis: Incremental Machine Learning using Support Vector Machines
@@ -37,6 +38,5 @@ Bachelor’s Thesis: Intelligent Embedded Myoelectric Controller for Prosthetic 
 
 [C/C++] [Python] [CAD] [Matlab]
 
-[IEEE Published Paper](https://ieeexplore.ieee.org/document/7899218/)
-
-[Youtube Video](http://youtu.be/fCInG4zWepo)
+[IEEE Published Paper](https://ieeexplore.ieee.org/document/7899218/)\
+[YouTube Video](http://youtu.be/fCInG4zWepo)
