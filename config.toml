@@ -22,3 +22,5 @@ theme = "hyde-x"
     # Sidebar social links, these must be full URLs.
     github = "https://github.com/expectopatronm"
     linkedin = "https://www.linkedin.com/in/shankar-kumar-40503477/" 
+
+    googleAnalytics = "UA-228461378"
