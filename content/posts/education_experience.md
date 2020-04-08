@@ -37,5 +37,6 @@ Bachelor’s Thesis: Intelligent Embedded Myoelectric Controller for Prosthetic 
 
 [C/C++] [Python] [CAD] [Matlab]
 
-http://youtu.be/fCInG4zWepo
-https://ieeexplore.ieee.org/document/7899218/
+[IEEE Published Paper](https://ieeexplore.ieee.org/document/7899218/)
+
+[Youtube Video](http://youtu.be/fCInG4zWepo)
