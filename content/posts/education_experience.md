@@ -36,7 +36,7 @@ Bachelor’s Thesis: Intelligent Embedded Myoelectric Controller for Prosthetic 
 * Inter disciplinary project in association with Texas Instruments and IEEE
 * Designed a combined Classification and Regression based model for finger movement prediction
 
-[C/C++] [Python] [CAD] [Matlab]
-
 [IEEE Published Paper](https://ieeexplore.ieee.org/document/7899218/)\
 [YouTube Video](http://youtu.be/fCInG4zWepo)
+
+[C/C++] [Python] [CAD] [Matlab]
