@@ -8,13 +8,15 @@
       <h1>{{ .Site.Author.name }}</h1>
       {{ with .Site.Params.tagline }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
     </div>
+</div>
 
-    <ul class="sidebar-nav">
-      <li class="sidebar-nav-item"><a href="{{ "/" | absURL }}">{{ if isset .Site.Params "home"}}{{ .Site.Params.home }}{{ else }}Blog{{ end }}</a></li>
-      {{ range .Site.Menus.main }}
-      <li class="sidebar-nav-item">{{ .Pre }}<a href="{{ .URL | absURL }}">{{ .Name }}{{ .Post }}</a></li>
-      {{end}}
-    </ul>
+<div class="container sidebar-sticky">
+  <ul class="sidebar-nav">
+    <li class="sidebar-nav-item"><a href="{{ "/" | absURL }}">{{ if isset .Site.Params "home"}}{{ .Site.Params.home }}{{ else }}Blog{{ end }}</a></li>
+    {{ range .Site.Menus.main }}
+    <li class="sidebar-nav-item">{{ .Pre }}<a href="{{ .URL | absURL }}">{{ .Name }}{{ .Post }}</a></li>
+    {{end}}
+  </ul>
 
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item">
