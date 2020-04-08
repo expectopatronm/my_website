@@ -1,4 +1,7 @@
 baseURL = "/"
+
+googleAnalytics = "UA-163156274-1"
+
 languageCode = "en-us"
 title = "Shankar Kumar"
 publishdir = "expectopatronm.github.io"
