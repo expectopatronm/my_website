@@ -7,6 +7,8 @@ menu:
     parent: "Deep Learning Projects"
 
 ---
+[Github link]()
+
 Originally envisioned as a demonstrator for the Bosch AI CON 2019, the _platooning_ system consists of two cars, a _leading car_ and a _following car_. The leading car can be driven manually using a PS4 controller and the following car will autonomously follow the leading car.
 
 ![](/images/inaction.gif)
