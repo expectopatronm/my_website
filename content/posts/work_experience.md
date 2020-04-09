@@ -8,7 +8,9 @@ weight: 2
 
 ### **Robert Bosch GmbH**
 
-Intern at the Bosch Center for Artificial Intelligence (BCAI), Lead AI Enabler for Classical Machine Learning and Deep Learning.
+Intern at the Bosch Center for Artificial Intelligence (BCAI), Lead AI Enabler for Classical Machine Learning and Deep Learning.\
+[Letter of Recommendation](/files/Letter_of_recommendation.pdf)\
+[Experience Letter]()
 
 ![](/images/group_bcai.png)
 
@@ -24,7 +26,8 @@ _\[Python\] \[C/C++\] \[TensorFlow\] \[PyTorch\] \[OpenAI Gym\] \[NVIDIA Jetson\
 
 ### **Weidmüller Interface GmbH & Co. KG**
 
-Working Student in Hardware Development, Device and Field Connectivity.
+Working Student in Hardware Development, Device and Field Connectivity.\
+[Experience Letter]()
 
 * Simulated and designed a wireless power transmission prototype for high voltage systems.
 * Qualitative and quantitative analysis of circuit parameters and components.
@@ -35,7 +38,8 @@ _\[C/C++\] \[Python\] \[CAD\]_
 
 ### **Robert Bosch GmbH**
 
-Internship in Corporate Research, Flight-Capable Systems.
+Internship in Corporate Research, Flight-Capable Systems.\
+[Experience Letter]()
 
 * Designed an embedded controller for speed and phase control of a drone rotor.
 * Designed a high-speed rotor synchronization system for an octa rotor configuration.
@@ -47,7 +51,8 @@ _\[Python\] \[C/C++\] \[Matlab\] \[Simulink\] \[Arduino\] \[Raspberry Pi\]_
 
 ### **University of Paderborn**
 
-Research Assistant at the Dept. of Computer Engineering, Approximate Computing.
+Research Assistant at the Dept. of Computer Engineering, Approximate Computing.\
+[Experience Letter]()
 
 * Designed a Monte Carlo Tree Search (MCTS) machine learning algorithm for synthesis and approximation of circuit components in reconfigurable systems.
 * Ported the algorithm from C++ to Python to integrate into a machine learning pipeline consisting of an Auto Encoder for design space exploration.
@@ -58,7 +63,8 @@ _\[Python\] \[C/C++\] \[Verilog\] \[Matlab\]_
 
 ### **Infosys Ltd.**
 
-Systems Engineer, Oracle Applications.
+Systems Engineer, Oracle Applications.\
+[Experience Letter]()
 
 * Software developer responsible for production environment support and maintenance.
 * Designed an embedded medical diagnostics system based on integration of Natural Language Processing and Google speech recognition with an accuracy of 96%.
@@ -69,7 +75,8 @@ _\[Java\] \[SQL\] \[Python\] \[C/C++\]_
 
 ### **Pramati Technologies Pvt. Ltd.**
 
-Associate Systems Engineer, Oracle Applications.
+Associate Systems Engineer, Oracle Applications.\
+[Experience Letter]()
 
 * Software developer in Scrum methodology in a globally distributed team environment.
 
