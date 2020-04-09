@@ -1,5 +1,5 @@
 ---
-title: Pose Estimation with High Resolution Neural Networks
+title: Pose Estimation with High Resolution Neural Networks - A Top-Down Approach
 date: 2020-03-30T23:00:00.000+00:00
 draft: false
 ---

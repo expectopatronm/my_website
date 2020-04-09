@@ -6,7 +6,8 @@ menu: "main"
 weight: 3
 ---
 ### Deep Learning Projects
-* [Pose Estiamation with High Resolution Neural Networks](/posts/projects/deep_learning_projects/pose_estimation)
+* [Pose Estiamation with High Resolution Neural Networks - A Top-Down Approach](/posts/projects/deep_learning_projects/pose_estimation)
+* [Pose Estimation with High Resolution Neural Networks - A Bottom-Up Approach](/posts/projects/deep_learning_projects/pose_estimation_bottom_up)
 * [Platooning Demonstrator with Deep Learning and Computer Vision](/posts/projects/deep_learning_projects/platooning)
 * [Reinforcement Learning with a Four-Legged Spider](/posts/projects/deep_learning_projects/reinforcement_spider)
 * [Genetic Algorithms for Hyperparameter Tuning of Neural Networks]()
