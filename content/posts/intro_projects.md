@@ -20,6 +20,7 @@ weight: 3
 * [Accelerated Incremental Machine Learning using Support Vector Machines](/posts/projects/classical_machine_learning_projects/incremental_svm)
 
 ### Natural Language Processing Projects
+* [Predict tags on StackOverflow with linear models](/posts/projects/natural_language_processing/tag_prediction/)
 * [Just One Context based Word Prediction using Word Embeddings]()
 * [Missing Word Prediction with BERT]()
 
