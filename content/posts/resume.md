@@ -11,11 +11,11 @@ menu: "main"
 
 # Certifications
 
-[Python for Data Science and AI](https://coursera.org/share/702e44a116e36113ab437da9bbd540b6)
+[Python for Data Science and AI](https://www.coursera.org/account/accomplishments/certificate/T6VVRS532WZ8)
 
-[Machine Learning with Python](https://coursera.org/share/819f48a6b5feafeeb5551243a492a098)
+[Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/PD6TEL2TNXH7)
 
-[Applied Machine Learning in Python](https://coursera.org/share/3664ed7c2d5dea1273dd34570c87d10c)
+[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/E72V3VRY9D23)
 
-[Guided Tour of Machine Learning in Finance](https://coursera.org/share/b99c046e9323a8ff2e0192276b590ccf)
+[Guided Tour of Machine Learning in Finance](https://www.coursera.org/account/accomplishments/certificate/JC64PAFC5SJ7)
 
