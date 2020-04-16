@@ -11,6 +11,8 @@ menu: "main"
 
 # Certifications
 
+[Natural Language Processing](https://www.coursera.org/account/accomplishments/certificate/4EB3YLGUTNYK)
+
 [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/certificate/T6VVRS532WZ8)
 
 [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/PD6TEL2TNXH7)
