@@ -6,6 +6,7 @@ menu: "main"
 weight: 3
 ---
 ### Deep Learning Projects
+* [Transfer Learning with the Inception V3 Network on the Stanford 40 Actions Dataset](/posts/projects/deep_learning_projects/transfer_inception_stanford)
 * [Pose Estimation with High Resolution Neural Networks - A Top-Down Approach](/posts/projects/deep_learning_projects/pose_estimation)
 * [Pose Estimation with High Resolution Neural Networks - A Bottom-Up Approach](/posts/projects/deep_learning_projects/pose_estimation_bottom_up)
 * [Platooning Demonstrator with Deep Learning and Computer Vision](/posts/projects/deep_learning_projects/platooning)
