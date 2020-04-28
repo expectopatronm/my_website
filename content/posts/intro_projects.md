@@ -15,6 +15,8 @@ weight: 3
 * [Genetic Algorithms for Hyperparameter Tuning of Neural Networks]()
 
 ### Classical Machine Learning Projects
+* [Predicting Likely Home and Work Locations given GPS Coordinates of a person using DBSCAN Clustering](/posts/projects/classical_machine_learning_projects/likely_home_work)
+* [Activity Recognition given Accelerometer Data using a Linear Classifier](/posts/projects/classical_machine_learning_projects/activity_recognition)
 * [Similarity Measures for Music Loop Projects in the Music Maker JAM Application](/posts/projects/classical_machine_learning_projects/jam_test)
 * [Imputing Solar Irradiance Data with ARIMA and Prophet](/posts/projects/classical_machine_learning_projects/solar_irradiance)
 * [Text Clustering Amazon Product Reviews with K-Means](/posts/projects/classical_machine_learning_projects/text_clustering)
