@@ -11,7 +11,6 @@ weight: 3
 * [Pose Estimation with High Resolution Neural Networks - A Top-Down Approach](/posts/projects/deep_learning_projects/pose_estimation)
 * [Pose Estimation with High Resolution Neural Networks - A Bottom-Up Approach](/posts/projects/deep_learning_projects/pose_estimation_bottom_up)
 * [Platooning Demonstrator with Deep Learning and Computer Vision](/posts/projects/deep_learning_projects/platooning)
-* [Reinforcement Learning with a Four-Legged Spider](/posts/projects/deep_learning_projects/reinforcement_spider)
 * [Genetic Algorithms for Hyperparameter Tuning of Neural Networks]()
 
 ### Classical Machine Learning Projects
@@ -28,6 +27,10 @@ weight: 3
 * [Recognize named entities on Twitter with LSTMs](/posts/projects/natural_language_processing/twitter_lstm)
 * [Just One Context based Word Prediction using Word Embeddings]()
 * [Missing Word Prediction with BERT]()
+
+### Reinforcement Learning Projects
+* [Monte Carlo Policy based Reinforcement Learning using a Race Track]()
+* [Proximal Policy Optimization based Reinforcement Learning with a Four-Legged Spider](/posts/projects/deep_learning_projects/reinforcement_spider)
 
 ### Algorithm Projects
 * [Conways Game of Life with MPI]()
