@@ -11,6 +11,9 @@ menu: "main"
 
 # Certifications
 
+* [Art and Science of Machine Learning](https://www.coursera.org/account/accomplishments/certificate/AWHVWA6FZVS7)\
+    Essential skills of ML intuition, good judgment and experimentation to finely tune and optimize ML models for the best performance with the many knobs and levers or 'hyperparameters' involved in training a model. You will first manually adjust them to see their effects on model performance.
+
 * [Natural Language Processing](https://www.coursera.org/account/accomplishments/certificate/4EB3YLGUTNYK)\
     This course covered a wide range of tasks in Natural Language Processing from basic to advanced: sentiment analysis, summarization, dialogue state tracking, to name a few. It helped recognize NLP tasks in day-to-day work, propose approaches, and judge what techniques are likely to work well. 
 
