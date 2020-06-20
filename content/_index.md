@@ -28,4 +28,4 @@ Head over to the [Projects](/posts/intro_projects) section to see some of my coo
 ![](/images/nasa.png)
 
 
-![](/images/nvidia.png)
+![](/images/nvidia.jpg)
