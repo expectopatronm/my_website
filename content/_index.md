@@ -20,3 +20,12 @@ I have a wide variety of hobbies. I am a musician, I can play the guitar, drums 
 Fun fact about me is I know 8 languages - German, English, Telugu, Tamil, Kannada, Malayalam, Hindi and Sanskrit.
 
 Head over to the [Projects](/posts/intro_projects) section to see some of my cool projects.  
+
+---
+
+### Updates
+
+![](/images/nasa.png)
+
+
+![](/images/nvidia.png)
