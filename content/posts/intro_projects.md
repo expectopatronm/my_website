@@ -31,8 +31,8 @@ weight: 3
 ### Reinforcement Learning
 * [Monte Carlo Policy based Reinforcement Learning using a Race Track]()
 * [Proximal Policy Optimization based Reinforcement Learning with a Four-Legged Spider](/posts/projects/deep_learning_projects/reinforcement_spider)
-* [n-Step SARSA On-Policy based Reinforcement Learning for balancing a Pendulum](/posts/projects/deep_learning_projects/sarsa_pendulum)
-* [n-Step $Q(\sigma)$ Off-Policy based Reinforcement Learning for balancing a Pendulum](/posts/projects/deep_learning_projects/q_learn_pendulum)
+* [n-Step SARSA On-Policy based Reinforcement Learning for balancing a Pendulum](/posts/projects/reinforcement_learning/sarsa_pendulum)
+* [n-Step $Q(\sigma)$ Off-Policy based Reinforcement Learning for balancing a Pendulum](/posts/projects/reinforcement_learning/q_learn_pendulum)
 
 ### Computer Vision
 * [Invisibility Cloaking]()
