@@ -5,4 +5,6 @@ draft: false
 ---
 [Github link]()
 
-!['Learning Output'](/images/q_learn.gif)
+To be written
+
+!['Learning Output'](/images/q_lear.gif)
