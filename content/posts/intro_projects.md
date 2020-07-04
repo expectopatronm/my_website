@@ -5,6 +5,10 @@ draft: false
 menu: "main"
 weight: 3
 ---
+
+### Hybrid Learning
+* [Industrial Defect Detection with Machine Learning Hackathon](/posts/projects/hybrid_learning_projects/rommelag_challeneg)
+
 ### Deep Learning
 * [Person Detection, Pose Prediction and Activity Recognition Pipeline](/posts/projects/deep_learning_projects/pose_action_person)
 * [Transfer Learning with the Inception V3 Network on the Stanford 40 Actions Dataset](/posts/projects/deep_learning_projects/transfer_inception_stanford)
