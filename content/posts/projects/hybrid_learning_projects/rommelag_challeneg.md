@@ -1,13 +1,11 @@
 ---
-title: Industrial Defect Detection with Machine Learning Hackathon
+title: Industrial Defect Detection with Machine Learning - Hackathon
 date: 2020-03-30T23:00:00.000+00:00
 draft: false
 ---
 [Github link](https://github.com/expectopatronm/Rommelag-Defect-Identification-Challenge)
 
 ![](/images/rommelag%20logo.jpg)
-
-# Industrial Error Detection with Machine Learning Hackathon
 
 ![](/images/pioneergaragelogo.PNG)
 
